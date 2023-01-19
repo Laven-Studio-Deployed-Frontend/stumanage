@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d942d758.chunk.css",
+    "main.js": "/static/js/main.ac00e399.chunk.js",
+    "main.js.map": "/static/js/main.ac00e399.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5028c8d2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5028c8d2.js.map",
+    "static/css/2.6f44476b.chunk.css": "/static/css/2.6f44476b.chunk.css",
+    "static/js/2.ed4ff97a.chunk.js": "/static/js/2.ed4ff97a.chunk.js",
+    "static/js/2.ed4ff97a.chunk.js.map": "/static/js/2.ed4ff97a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.98817956f711df759849e7bc33e057c5.js": "/precache-manifest.98817956f711df759849e7bc33e057c5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.6f44476b.chunk.css.map": "/static/css/2.6f44476b.chunk.css.map",
+    "static/css/main.d942d758.chunk.css.map": "/static/css/main.d942d758.chunk.css.map",
+    "static/js/2.ed4ff97a.chunk.js.LICENSE.txt": "/static/js/2.ed4ff97a.chunk.js.LICENSE.txt",
+    "static/media/styles.scss": "/static/media/GoogleSans-ThinItalic.eee0a313.eot",
+    "static/media/Logo.png": "/static/media/Logo.cac831bc.png",
+    "static/media/notifications.css": "/static/media/notification.c0d3c94c.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5028c8d2.js",
+    "static/css/2.6f44476b.chunk.css",
+    "static/js/2.ed4ff97a.chunk.js",
+    "static/css/main.d942d758.chunk.css",
+    "static/js/main.ac00e399.chunk.js"
+  ]
+}
